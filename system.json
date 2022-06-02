@@ -53,7 +53,7 @@
   "primaryTokenAttribute": "",
   "secondaryTokenAttribute": "",
   "url": "https://github.com/WarriorAmhar/changelingv5/",
-  "manifest": "https://github.com/WarriorAmhar/changelingv5/blob/main/system.json",
+  "manifest": "https://raw.githubusercontent.com/WarriorAmhar/changelingv5/v0.1.0/system.json",
   "download": "https://github.com/WarriorAmhar/changelingv5/archive/refs/heads/main.zip",
   "license": "LICENSE.txt"
 }
