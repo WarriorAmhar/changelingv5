@@ -53,7 +53,7 @@
   "primaryTokenAttribute": "",
   "secondaryTokenAttribute": "",
   "url": "https://github.com/WarriorAmhar/changelingv5/",
-  "manifest": "https://raw.githubusercontent.com/Rayji96/foundry-V5/main/system.json",
-  "download": "https://github.com/Rayji96/foundry-V5/archive/foundryvtt_v5_v1.8.2.zip",
+  "manifest": "https://github.com/WarriorAmhar/changelingv5/blob/main/system.json",
+  "download": "https://github.com/WarriorAmhar/changelingv5/archive/refs/heads/main.zip",
   "license": "LICENSE.txt"
 }
